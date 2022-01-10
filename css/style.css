@@ -1,0 +1,10 @@
+/*Modo de organização dos arquivos CSS*/
+@import "./global.css";
+@import "header.css";
+@import "./introducao.css";
+@import "./experiencia.css";
+@import "./formacao.css";
+@import "./footer.css";
+
+
+

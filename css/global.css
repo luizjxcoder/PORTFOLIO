@@ -1,0 +1,34 @@
+body{
+  font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
+  margin: 0px;
+  color: "#141414";
+}
+
+h1, h2, h3, p{
+  margin:  0px;
+}
+
+ul{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+
+
+.subtitulo{
+  font-size: 8rem;
+  line-height: 1;
+  text-transform: uppercase;
+  word-break: break-all; /*Quebra de Linha*/
+  max-width: 4ch; /*Quebra com 4 caracteres*/
+}
+
+@media (max-width: 800px) {
+  .subtitulo{
+  font-size: 3rem;
+  text-transform: captalize;
+  max-width: initial !important;/* Valor como importante será carregado subscrevendo outros valores que estiverem a frente/Formação ficará escrita inteira não quebrando linha no responsivo*/
+  }
+  
+}
