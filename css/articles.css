@@ -1,0 +1,30 @@
+.last-articles__title {
+  background-color: #000;
+  padding: 5px 0;
+}
+
+.last-articles__title h2 {
+  font-size: 24px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.last-articles__thumbs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 2fr));
+  grid-auto-rows: auto;
+  grid-gap: 5px;
+  background: #000;
+}
+
+.footer-contato li {
+  text-decoration: none;
+}
+
+.last-articles__thumbs img {
+  display: block;
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
