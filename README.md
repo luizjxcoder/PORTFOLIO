@@ -24,9 +24,9 @@
 #
 ### :triangular_ruler: PROJETO
 ```
-<p> Este é o meu primeiro Portfolio particular onde apresento minhas formações, habilidades, além de alguns
-trabalhos realizados. Fiquei muito feliz com o resultado, usando apenas CSS3 e HTML5 ficou claro e de forma 
-simples e prática meu perfil está sendo apresentado. Espero que gostem!
+<p> Este é o meu primeiro Portfolio particular onde apresento minhas formações, habilidades, além de
+alguns trabalhos realizados. Fiquei muito feliz com o resultado, usando apenas CSS3 e HTML5 ficou 
+claro e de forma simples e prática meu perfil está sendo apresentado. Espero que gostem!
 </p>
 ```
 
