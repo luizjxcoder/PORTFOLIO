@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">PORTFOLIO</h1>
+<h1 align="center">PORTFOLIO PESSOAL</h1>
 
 <img src="https://github.com/luizjxcoder/PORTFOLIO/blob/master/portfolio.png"/>
 
