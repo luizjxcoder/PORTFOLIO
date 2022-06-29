@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">PORTFOLIO</h1>
 
-<img src=""/>
+<img src="https://github.com/luizjxcoder/PORTFOLIO/blob/master/portfolio.png"/>
 
 ### :atom: TECNOLOGIAS USADAS NO PROJETO:
 </div>
